@@ -161,5 +161,3 @@ end
 
 p "#{first_integer} + #{second_integer} is #{first_integer + second_integer}."
 =end
-
-
